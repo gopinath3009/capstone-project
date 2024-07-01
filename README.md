@@ -26,7 +26,7 @@ COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE
 https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series
 
 ## 4. Installation:
-
+ 
 i. Clone the git repo
 
 ```
