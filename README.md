@@ -6,7 +6,7 @@ A COVID-19 Tracker Web Application
 A Java Spring Boot Web application for tracking global Corona Virus (COVID-19) cases.
 
 ## 2. Tech Stack:
- 
+
 - HTML / Bootstrap
 - JavaScript 
 - Java 11
