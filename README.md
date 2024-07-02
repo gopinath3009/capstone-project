@@ -47,7 +47,7 @@ iii. Explore
 
 ![This is an image](src/main/java/com/application/covidtrackerapplication/images/Screenshot.png)
 
-## 7. Contribution:
+## 7. Contribution: 
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
